@@ -1,0 +1,178 @@
+body{
+
+font-family: sans-serif;
+padding: 0;
+margin: 0;
+background-color: rgb(0, 0, 0);
+direction: rtl;
+margin: 0;
+}
+
+.boxx{
+
+    width:80% ;
+
+margin: auto;
+overflow: hidden;
+
+}
+
+
+
+
+
+  
+
+ul{
+margin: 0%;
+padding: 0%;
+}
+
+header{
+background-color: rgba(109, 0, 0, 0.651);
+color: whitesmoke;
+padding-top: 30px;
+border-bottom: rgb(66, 0, 0) 5px solid;
+}
+
+header a{
+
+color: bisque;
+text-decoration: none;
+
+font-size: 19px;
+
+}
+  header li{
+
+float: right;
+display: inline;
+padding: 0 20px 0 20px;
+
+  }
+  header #brand{
+    float: right;
+  }
+
+  header #brand h1 {
+
+margin: 0;
+color: rgb(0, 0, 0);
+  }
+  header nav{
+float: left;
+margin-top: 10px;
+}
+
+header .current a {
+
+
+color: rgb(95, 0, 0);
+font-weight: bold;
+
+}
+
+
+header a:hover{
+
+
+color: azure;
+font-weight: bold;
+
+}
+#newsletter h1{
+
+float: right;
+}
+#newsletter form{
+color: blue;
+float: left;
+margin-top: 15px;
+}
+
+
+.card{
+
+background-color: rgb(0, 0, 0);
+width:25% ;
+padding: 12px;
+margin: 8px;
+color: beige;
+height:350px;
+width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+.card img{
+
+width: 100%;
+
+}
+.container{
+
+background-color: rgba(80, 0, 0, 0.788);
+
+display: flex;
+
+justify-content: space-evenly;
+align-items: center;
+flex-wrap: wrap;
+
+
+}
+.g1{
+
+color: blueviolet;
+text-align: center;
+background-color: blue;
+
+}
+.d1{
+
+background-color: black;
+color: rgb(145, 2, 2);
+text-align: center;
+font-size: xx-large;
+
+}
+.f1{
+
+  background-color: black;
+color: rgb(145, 2, 2);
+text-align: center;
+font-size: xx-large;
+}
+
+.h1{
+
+
+
+
+
+  background-color: black;
+color: rgb(145, 2, 2);
+text-align: center;
+font-size: xx-large;
+}
+
+.a1{
+
+
+
+  background-color: black;
+color: rgb(145, 2, 2);
+text-align: center;
+font-size: xx-large;
+}
+
+#h2{
+
+
+  background-color: black;
+  color: rgb(145, 2, 2);
+  text-align: center;
+  font-size: xx-large;
+
+
+
+}
